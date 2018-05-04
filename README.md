@@ -41,8 +41,7 @@ __-프로젝트 참가자__ : 안장현, 황윤상, 이웅기, 김명중 (feat. 
 ### 7. 끝
  : 프로젝트 2 진행
 ***
-![wbs](wbs.png)
-[WBC(작업테이블)](https://docs.google.com/spreadsheets/d/1FERX-ZtqsSrEMwRJI8FLhWq9nbFUzfE75uOCy7pMZB4/edit#gid=0)
+[WBS(작업테이블)](https://docs.google.com/spreadsheets/d/1FERX-ZtqsSrEMwRJI8FLhWq9nbFUzfE75uOCy7pMZB4/edit#gid=0)
 ***
 ### - 일정요약
 
@@ -69,3 +68,7 @@ __-프로젝트 참가자__ : 안장현, 황윤상, 이웅기, 김명중 (feat. 
 ## ※ 공지사항
 ###### 루트 폴더는 소스만 추가할 것.
 ###### 개인별 폴더에 역활에 맞는 문서 및 소스를 추가할 것.
+***
+## ※ 사전 설치 내용 + 소스 구성 내용(아래)
+## src 폴더에 들어가서 내용 확인하시면 됩니다.
+
